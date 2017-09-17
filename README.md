@@ -2,3 +2,5 @@
 + welcome give me some advice
 
 ### Java study for me
+
+[java](java)

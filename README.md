@@ -3,4 +3,4 @@
 
 ### Java study for me
 
-[java](java)
+[java](./hello.md)
